@@ -1,2 +1,5 @@
 this is ppt test new one
+HEAD
 two for conflicts
+3rd commit for confict
+79d29a4... 3rd conflict
